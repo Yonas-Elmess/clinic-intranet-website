@@ -1,15 +1,27 @@
 # Clinic Intranet Website — Clinique Tiznit des Spécialités
 
-A multi-page internal intranet website built for a medical clinic during a professional internship, allowing staff to access clinic information, services, and team contacts.
+A multi-page internal intranet website designed and built for a private medical clinic, centralizing internal information and simplifying communication between departments.
+
+> 🔗 **[Live Demo](https://yonas-elmess.github.io/clinic-intranet-website/)**
+
+> Built during a professional internship at Clinique Tiznit des Spécialités (2025–2026).
+
+---
+
+## Purpose
+
+The clinic faced three core problems: slow inter-department communication, scattered internal data, and difficulty tracking tasks. This intranet was designed to solve all three by centralizing staff information, IT services, and contact details in one internal platform.
 
 ---
 
 ## Pages
 
-- **Accueil** — Welcome page with video background and clinic overview
-- **Service Informatique** — IT department information and services
-- **Personnel** — Full staff directory with search and contact modal
-- **Contact** — Contact form for internal use
+| Page | Description |
+|---|---|
+| Accueil | Home page with video background, clinic overview, opening hours, and Google Maps location |
+| Service Informatique | IT department info and technical assistance request |
+| Personnel | Full staff directory with live search and contact modal |
+| Contact | Clinic contact details — phone, email, address |
 
 ---
 
@@ -17,24 +29,28 @@ A multi-page internal intranet website built for a medical clinic during a profe
 
 - Staff directory organized by department (Medical, IT, Administrative)
 - Live search filtering by name, position, or department
-- Contact modal popup with email and phone for each staff member
+- Contact modal popup showing email and phone per staff member
+- Google Maps integration on the contact page
 - Video background on the home page
-- Responsive navbar with active page highlighting
+- Responsive navbar with active page state
+- Deployed and live via GitHub Pages
 
 ---
 
 ## Tech Stack
 
 - **HTML5** — semantic multi-page structure
-- **CSS3** — custom styling, layout, card components
-- **JavaScript** — live search filtering, contact modal logic
+- **CSS3** — custom styling, card components, layout
+- **JavaScript** — live search, contact modal, interactivity
+- **Hosting:** GitHub Pages
+- **Tools:** VS Code, Live Server
 
 ---
 
 ## Project Context
 
-Built during a professional observation internship at Clinique Tiznit des Spécialités (2024–2025).  
-Designed as an internal intranet tool for clinic staff — not a public-facing website.
+Designed and developed as part of a 1ère année cycle ingénieur internship at ISGA (2025–2026), under the supervision of Mme. Hind Elaimani.  
+The intranet was built for internal staff use at Clinique Tiznit des Spécialités — a private healthcare facility in Tiznit, Morocco.
 
 ---
 
